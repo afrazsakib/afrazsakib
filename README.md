@@ -15,7 +15,7 @@ Results-driven cybersecurity professional with hands-on experience at Amazon Web
 ### 🚀 **Lead Cybersecurity Instructor**  
 *CyberGuardian Courses · Aug 2024 – Present · Manassas, VA*
 - **Designed and delivered 4+ cybersecurity courses** from the ground up, aligning content with the **NIST NICE framework** and current industry trends  
-- **Facilitated hands-on labs and assessments** for cohorts of 15–20 students, boosting engagement and technical proficiency  
+- **Facilitated hands-on labs and assessments** for cohorts of **15–20 students**, boosting engagement and technical proficiency  
 - **Mentored students through tailored career coaching**, achieving a **90% success rate**
 
 ### ☁️ **Data Center Operations Technician**  
