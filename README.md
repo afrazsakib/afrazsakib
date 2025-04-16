@@ -20,9 +20,9 @@ Results-driven cybersecurity professional with hands-on experience at Amazon Web
 
 ### ☁️ **Data Center Operations Technician**  
 *Amazon Web Services · Oct 2023 – Present · Ashburn, VA*
-- **Achieved 99.99% system uptime** by resolving 3,000+ critical infrastructure tickets, including 200+ high-severity incidents affecting core services  
+- **Achieved 99.99% system uptime** by resolving **3,000+ critical infrastructure tickets**, including **200+ high-severity incidents** affecting core services  
 - **Consistently ranked as the second-highest ticket resolver** on the team for the past four consecutive quarters  
-- **Maintained a 98.7% SLA adherence rate**, with only 6 over-SLA cases  
+- **Maintained a 98.7% SLA adherence rate**, with only **6 over-SLA cases**  
 - **Handled 50% high-priority ticket workloads**, managing pressure and competing tasks effectively  
 - **Responded to high-impact incidents** involving network device failures, power anomalies, and misconfigurations  
 - **Executed hardware replacements, console configs, and firmware upgrades**  
@@ -34,15 +34,15 @@ Results-driven cybersecurity professional with hands-on experience at Amazon Web
 - **Led cybersecurity training** for 30+ Indigenous students via education outreach  
 - **Designed and managed CyberLab**, a hybrid-access cybersecurity lab  
 - **Refurbished and deployed 100+ devices** for IET program students  
-- **Delivered tutoring and technical support**, receiving 100% positive feedback  
-- **Collaborated on curriculum development** and facilitated cybersecurity events and competitions
+- **Delivered tutoring and technical support**, receiving **95% positive feedback**  
+- **Collaborated on curriculum development** and facilitated **cybersecurity events and competitions**
 
 ### 🔍 **Cybersecurity Risk Analyst**  
 *Confidential · Aug 2022 – Mar 2023 · Woodbridge, VA*
-- **Conducted enterprise-wide security assessments** using NIST and ISO 27001  
-- **Performed internal penetration testing, phishing simulations, wireless audits**, reducing risk exposure by 80%  
+- **Conducted enterprise-wide security assessments** using **NIST and ISO 27001**  
+- **Performed internal penetration testing, phishing simulations, wireless audits**, reducing risk exposure by **80%**  
 - **Delivered Security Assessment Reports (SARs)** with executive-level summaries  
-- **Trained employees on secure data handling**, password hygiene, and communication
+- **Trained employees on secure data handling, password hygiene, and communication**
 
 ---
 
